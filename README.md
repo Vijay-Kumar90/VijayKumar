@@ -1,5 +1,6 @@
 # 💫 About Me:
 I' am currently learning Java fullstack webdevelopment
+Java Full Stack Developer | Python & Machine Learning Enthusiast | ECE Engineer
 
 
 ## 🌐 Socials:
